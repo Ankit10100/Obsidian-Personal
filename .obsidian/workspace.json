@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "f14d277c5d5185f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ded69c9f5592815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "367b8b27060ee436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "c0a38e2dc8b46ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "074abf216d583811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "a8ac34cc276f7d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trips/China/China Tips & Tricks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "China Tips & Tricks"
+            }
+          },
+          {
+            "id": "6a3caebda2816bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learnings/Stock Market/Stock Analysis/001_Support And Resistance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001_Support And Resistance"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3e2de1b89408b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c919376efac4483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae6601c15b074e58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bc76e075ac39b24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba787e5672e8849a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bdd1b4692113fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e676f5e9ed49c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db07c7d5b34f4c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learnings/Stock Market/Stock Analysis/001_Support And Resistance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b2725f98d18b0494",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learnings/Stock Market/Stock Analysis/001_Support And Resistance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "611846100b29147e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ad9470b75bf0009",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f9f223076ba6cb99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learnings/AI/Andrej Karpathy Neural Networks Zero to HeroJetsonHacks/Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Readme"
+            }
+          },
+          {
+            "id": "424eae6e19b4d0b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6a3caebda2816bdb",
+  "lastOpenFiles": [
+    "Temp/Court Cases/Crusher.md",
+    "Learnings/Stock Market/Stock Analysis/001_Support And Resistance.md",
+    "Learnings/Stock Market/Stock Analysis",
+    "Learnings/Stock Market",
+    "Trips/China/China Tips & Tricks.md",
+    "Trips/China/SHANGHAI.md",
+    "Personal/Japan Visa/Japan Flights.md",
+    "Trips/China",
+    "Trips",
+    "Learnings/AI/Jupyter Notebook Setup Instruction.md",
+    "Pasted image 20260815134348.png",
+    "Temp",
+    "Personal/Japan Visa/Files Required.md",
+    "Personal/Japan Visa",
+    "Personal",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Temp/Court Cases",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Income Tax/ITR Checklist.md",
+    "Income Tax/Schedule A2.md",
+    "Income Tax/Schedule FA 3 Calculation.md",
+    "Learnings/AI/Andrej Karpathy Neural Networks Zero to HeroJetsonHacks/Lecture 1,  Building Micrograd.md",
+    "Learnings/AI/Andrej Karpathy Neural Networks Zero to HeroJetsonHacks/Readme.md",
+    "Income Tax",
+    "Learnings/AI/Learning Plan For AI.md",
+    "README.md",
+    "Learnings/AI/Andrej Karpathy Neural Networks Zero to HeroJetsonHacks/Data/Images"
+  ]
+}
